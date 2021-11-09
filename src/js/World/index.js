@@ -23,7 +23,8 @@ export default class World {
       })
     }
 
-    this.setLoader()
+    // this.setLoader()
+    this.init()
   }
   init() {
     this.setAmbientLight()

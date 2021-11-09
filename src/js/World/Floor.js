@@ -1,4 +1,4 @@
-import { BufferAttribute, BufferGeometry, NoBlending, Object3D, Points, ShaderMaterial, SubtractiveBlending } from 'three'
+import { BufferAttribute, BufferGeometry, Object3D, Points, ShaderMaterial, SubtractiveBlending } from 'three'
 import fragment from '@shaders/fragment.glsl'
 import vertex from '@shaders/vertex.glsl'
 
